@@ -65,7 +65,7 @@ exports[`get throws a useful error message 8`] = `
 `;
 
 exports[`get throws a useful error message 9`] = `
-"Unable to find an element by role=LucyRicardo
+"Unable to find an element by [role=LucyRicardo]
 
 [36m<div>[39m
   [36m<div />[39m
